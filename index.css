@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+  }
+
+  .header {
+    background-color: #7a00ec;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  #logo-list li img:hover {
+    position: relative;
+    top: -2px;
+  }
+  
+  #img-display-picture {
+    width: 250px;
+
+  }
+  
+  .img-about-icons {
+    width: 150px;
+  }
+  
+  .img-brand {
+    width: 40px;
+  
+  }
+  
